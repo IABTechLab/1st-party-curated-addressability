@@ -1,4 +1,4 @@
-# 1st Party Publisher Curated Addressability
+# 1st Party Curated Addressability
 
 
 ## Context and problem statement
