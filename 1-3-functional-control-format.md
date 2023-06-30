@@ -181,7 +181,7 @@ The sspConfig object is the top-level of the ssp config JSON file. It defines th
 | -------------- | ----------- |-------------- | ----------- |
 | AdForm | Active | | |
 | ActiveAgent | Active | | |
-| AppNexus | Deprecated | Xandr| Transitioned to Xandr|
+| Xandr | Active | AppNexus | Transitioned to Xandr|
 | Adthink| Active | | |
 | Amobee | Active | | |
 | Criteo | Active | | |
