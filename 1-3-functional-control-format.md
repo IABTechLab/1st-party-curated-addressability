@@ -180,23 +180,23 @@ The sspConfig object is the top-level of the ssp config JSON file. It defines th
 | Name | Status | Reference | Comment
 | -------------- | ----------- |-------------- | ----------- |
 | AdForm | Active | | |
-| Active Agent | Active | | |
+| ActiveAgent | Active | | |
 | AppNexus | Deprecated | Xandr| Transitioned to Xandr|
 | Adthink| Active | | |
 | Amobee | Active | | |
 | Criteo | Active | | |
-| Discover-Tech ltd | Active | | |
-| Display & Video 360 - Google Marketing Platform | Active | | |
+| DiscoverTech | Active | | |
+| DV360 | Active | | |
 | Hivestack | Active | | |
 | MediaMath | Active | | |
 | Mediarithmics | Active | | |
 | Platform161 | Active | | |
-| RTB House | Active | | |
+| RTBHouse | Active | | |
 | Sizmek | Deprecated | Amazon-DSP | Transitioned to Amazon-DSP |
 | SmartyAds | Active | | |
 | Splicky | Active | | |
 | Teads | Active | | |
-| The Trade Desk | Active | | |
+| TheTradeDesk | Active | | |
 | Yahoo| Active | | former Verizon Media|
 
 #### SSP Table
