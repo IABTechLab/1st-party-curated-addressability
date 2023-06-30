@@ -192,7 +192,7 @@ The sspConfig object is the top-level of the ssp config JSON file. It defines th
 | Mediarithmics | Active | | |
 | Platform161 | Active | | |
 | RTBHouse | Active | | |
-| Sizmek | Deprecated | Amazon-DSP | Transitioned to Amazon-DSP |
+| AmazonDSP | Deprecated | a.k.a. Sizmek |  |
 | SmartyAds | Active | | |
 | Splicky | Active | | |
 | Teads | Active | | |
