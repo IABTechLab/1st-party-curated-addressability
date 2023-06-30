@@ -203,7 +203,7 @@ The sspConfig object is the top-level of the ssp config JSON file. It defines th
 
 | Name | Status | Reference | Comment
 | -------------- | ----------- |-------------- | ----------- |
-| AdFormSSP | Active | | |
+| AdForm | Active | | |
 | Adswizz | Active | | |
 | Azerion | Active | a.k.a Improve Digital | |
 | Bidswitch | Active | | |
